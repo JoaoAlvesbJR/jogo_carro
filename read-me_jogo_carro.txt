@@ -1,0 +1,9 @@
+Leia - me
+
+Para que funcione corretamente a aplicação, baixar:
+- Pastas;
+- Visual Studio;
+
+Colocar as pastas na source do Visual Studio.
+
+Jogo com intuito não comercial, somente para aprendizado.
