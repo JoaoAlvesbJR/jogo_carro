@@ -1,0 +1,10 @@
+C:\Users\ambientedev\source\repos\atv2\atv2\obj\Debug\atv2.csprojAssemblyReference.cache
+C:\Users\ambientedev\source\repos\atv2\atv2\obj\Debug\atv2.Form1.resources
+C:\Users\ambientedev\source\repos\atv2\atv2\obj\Debug\atv2.Properties.Resources.resources
+C:\Users\ambientedev\source\repos\atv2\atv2\obj\Debug\atv2.csproj.GenerateResource.cache
+C:\Users\ambientedev\source\repos\atv2\atv2\obj\Debug\atv2.csproj.CoreCompileInputs.cache
+C:\Users\ambientedev\source\repos\atv2\atv2\bin\Debug\atv2.exe.config
+C:\Users\ambientedev\source\repos\atv2\atv2\bin\Debug\atv2.exe
+C:\Users\ambientedev\source\repos\atv2\atv2\bin\Debug\atv2.pdb
+C:\Users\ambientedev\source\repos\atv2\atv2\obj\Debug\atv2.exe
+C:\Users\ambientedev\source\repos\atv2\atv2\obj\Debug\atv2.pdb
